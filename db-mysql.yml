@@ -1,4 +1,3 @@
-### 配置文件
 config:
           label: master
           name: db
