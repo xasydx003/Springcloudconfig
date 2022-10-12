@@ -1,4 +1,6 @@
 ### 配置文件
-config: 
- info: 34444
- a: 33
+config:
+          label: master
+          name: db
+          prifile: mysql
+          uri: http://config-3344.com:3344
