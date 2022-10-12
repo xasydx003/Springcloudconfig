@@ -2,4 +2,4 @@ config:
     label: master
     name: db
     prifile: mysql
-    uri: http://config-3344.com:3344 v=12
+    uri: http://config-3344.com:3344 v=123
