@@ -1,3 +1,4 @@
 ### 配置文件
-config.info= 34444
-config.a=33
+config:
+  info: 34444
+  a: 33
